@@ -1,3 +1,4 @@
+package progect2
 
 fun main() {
     // Чтение символа от пользователя
